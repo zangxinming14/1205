@@ -31,7 +31,7 @@ enum {PDF, IMAGE, PROCEDURAL, NUM_EXAMPLES};
 	return 1;
 }
 
-
+//add zangxm 1205
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
     return NUM_EXAMPLES;
 }
